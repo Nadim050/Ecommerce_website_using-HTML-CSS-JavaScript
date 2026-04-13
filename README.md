@@ -9,4 +9,4 @@ An e-commerce website is an online platform that allows businesses and individua
 </div>
 
 ### Demo Screeshots
-<img width="1920" height="1020" alt="<img width="1920" height="1020" alt="Screenshot 2026-04-13 214507" src="https://github.com/user-attachments/assets/3c66d64d-4dbd-4aba-a623-81ae909f7580" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-13 214507" src="https://github.com/user-attachments/assets/3c66d64d-4dbd-4aba-a623-81ae909f7580" />
